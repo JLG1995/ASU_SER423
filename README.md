@@ -1,6 +1,6 @@
 # ASU Mobile App Development (SER 423)
 
-This repository showcases a collection of assignments and small projects I completed for **SER 423: Mobile Systems** at **Arizona State University**, taught by **Dr. Tyler Baron**.  
+This repository showcases a collection of assignments and small projects I completed for **SER 423: Mobile Systems** at **Arizona State University**, taught by **Dr. Tyler Baron** in Spring B 2025.  
 The course focused on **React Native** development, emphasizing mobile architecture, lifecycles, user interfaces, networking, and integration with native device features.
 
 ---
