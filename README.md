@@ -54,7 +54,7 @@ Doing so constitutes a violation of [ASU’s Academic Integrity Policy](https://
 
 ---
 
-## 💼 About This Repository
+## About This Repository
 
 This repository is public to:
 - Showcase my technical coursework and skill development  
