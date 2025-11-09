@@ -1,22 +1,3 @@
-{
-  "name": "module5-ex3",
-  "version": "1.0.0",
-  "main": "node_modules/expo/AppEntry.js",
-  "scripts": {
-    "start": "expo start",
-    "android": "expo start --android",
-    "ios": "expo start --ios",
-    "web": "expo start --web"
-  },
-  "dependencies": {
-    "expo": "~47.0.12",
-    "expo-status-bar": "~1.4.2",
-    "module5-ex3": "file:",
-    "react": "18.1.0",
-    "react-native": "0.70.5"
-  },
-  "devDependencies": {
-    "@babel/core": "^7.12.9"
-  },
-  "private": true
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:af6c4fd92f6f3f8c4983d061c048f68f180362286d3252fd8ba45cf0c89a7671
+size 478

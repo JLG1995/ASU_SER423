@@ -1,21 +1,3 @@
-import React from 'react';
-import { NavigationContainer } from '@react-navigation/native';
-import { createNativeStackNavigator } from '@react-navigation/native-stack';
-
-import HomeScreen from './HomeScreen';
-import WebViewScreen from './WebViewScreen'; // Adding the WebViewScreen import so it can be used in the stack navigator
-
-const Stack = createNativeStackNavigator();
-
-const App = () => {
-  return (
-    <NavigationContainer>
-      <Stack.Navigator initialRouteName="Home">
-        <Stack.Screen name="Home" component={HomeScreen} />
-        <Stack.Screen name="WebView" component={WebViewScreen} />
-      </Stack.Navigator>
-    </NavigationContainer>
-  );
-};
-
-export default App;
+version https://git-lfs.github.com/spec/v1
+oid sha256:789d45c5f8779c1b41a3060ffc6f63caff607e8bc35e357f12941709d76cbe36
+size 686

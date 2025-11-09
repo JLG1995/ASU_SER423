@@ -1,8 +1,3 @@
-import { registerRootComponent } from 'expo';
-
-import App from './App';
-
-// registerRootComponent calls AppRegistry.registerComponent('main', () => App);
-// It also ensures that whether you load the app in Expo Go or in a native build,
-// the environment is set up appropriately
-registerRootComponent(App);
+version https://git-lfs.github.com/spec/v1
+oid sha256:eeb521c7e92449108273176e095741230773d345d528455c1f70cf7f2e9c7ee1
+size 315

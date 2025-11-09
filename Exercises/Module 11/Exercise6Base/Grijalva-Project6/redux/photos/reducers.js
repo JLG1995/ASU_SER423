@@ -1,33 +1,3 @@
-import {
-    FETCH_PHOTOS,
-    ADD_PHOTO,
-    REMOVE_PHOTO
-} from './actions';
-
-const initialState = { "photos": [] }
-
-export default (state = initialState, action) => {
-    switch (action.type) {
-        case FETCH_PHOTOS:
-            return {
-                ...state,
-                photos: [...action.payload.photos],
-            };
-
-        case ADD_PHOTO:
-            return {
-                ...state,
-                photos: [...state.photos, action.payload],
-            };
-
-        case REMOVE_PHOTO:
-            return {
-                ...state,
-                photos: state.photos.filter(photo => {
-                    return photo.id !== action.payload.id
-                })
-            };
-        default:
-            return state;
-    }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:8ebb0cfafaf8319bb596bb376ce8293cfcb97d3565ed7d7a360f534c28faf288
+size 788
